@@ -1,0 +1,17 @@
+# JavaScript
+*.js text eol=crlf
+*.jsx text eol=crlf
+*.json text eol=crlf
+
+# Stylesheets
+*.css text eol=crlf
+
+# HTML
+*.html text eol=crlf
+
+# Markdown
+*.md text eol=crlf
+
+# Git Files
+*.gitattributes text eol=crlf
+*.gitignore text eol=crlf
